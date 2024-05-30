@@ -18,9 +18,11 @@ I’m Franco Centurión, a passionate Information Systems Engineering student wh
 - <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" alt="html" width="50"/> HTML
 - <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" alt="css" width="50"/> CSS
 - <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" alt="js" width="50"/> JavaScript
-- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50"/> MySQL
+- <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50"/> PostgreSQL
 - <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/handlebars/handlebars-original.svg" alt="handlebars" width="50"/> Handlebars
 - <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" alt="git" width="50"/> Git
+
+
 
 
 ## 💡 Projects
