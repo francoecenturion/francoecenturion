@@ -5,7 +5,7 @@ I’m Franco Centurión, a passionate Information Systems Engineering student wh
 ## 🔎🧑 About Me
 - 💼 I’m currently working in HSBC as Mainframe Intern
 - 📚 I’m studying Information Systems Engineering at UTN FRBA (49% completed)
-- 🙋‍♂️ I’m 22 years old
+- 🙋‍♂️ I’m 23 years old
 - 🌎 I live in Buenos Aires, Argentina
 - 👨‍💻 I’m mainly interested in fullstack development
 
