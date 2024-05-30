@@ -25,7 +25,7 @@ I’m Franco Centurión, a passionate Information Systems Engineering student wh
 
 ## 💡 Projects
 
-Coming soon...
+[University Projects](https://github.com/francoecenturion/university-projects/tree/main)
 
 
 ## 🤝 Let’s connect!
