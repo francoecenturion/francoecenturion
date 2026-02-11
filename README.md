@@ -1,26 +1,34 @@
 ## 👋 Hi there! 
-I’m Franco Centurión, a passionate Information Systems Engineering student who loves learning new technologies.
-
+I’m Franco Centurión, a curious and motivated software developer with a strong interest in learning new technologies. I’m passionate about using technology to simplify everyday tasks and create practical, impactful solutions.
 
 ## 🔎🧑 About Me
-- 💼 I’m currently working in HSBC as Mainframe Intern
-- 📚 I’m studying Information Systems Engineering at UTN FRBA (49% completed)
-- 🙋‍♂️ I’m 23 years old
-- 🌎 I live in Buenos Aires, Argentina
-- 👨‍💻 I’m mainly interested in fullstack development
+- 💼 I’m currently working in Mercado Libre as Backend Developer
+- 📚 I’m studying Information Systems Engineering at Universidad Tecnológica Nacional FRBA (58% completed)
+- 🙋‍♂️ I’m 24 years old
+- 🌎 I am based in Ciudad de Buenos Aires, Argentina
 
 
-## 💻🛠️ Technologies and Tools
+## 💻 Technologies & Tools
 
-- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" alt="java" width="50"/> Java
-- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" alt="c" width="50"/> C
-- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/haskell/haskell-original.svg" alt="haskell" width="50"/> Haskell
-- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" alt="html" width="50"/> HTML
-- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" alt="css" width="50"/> CSS
-- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" alt="js" width="50"/> JavaScript
-- <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50"/> PostgreSQL
-- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/handlebars/handlebars-original.svg" alt="handlebars" width="50"/> Handlebars
-- <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" alt="git" width="50"/> Git
+### Languages & Frameworks
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" width="36" title="Quarkus"/>
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" title="MySQL"/>
+</p>
+
+### Cloud & DevOps
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" title="Google Cloud Platform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="36" title="Terraform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" title="Docker"/>
+</p>
 
 
 
